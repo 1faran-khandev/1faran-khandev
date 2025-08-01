@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
+I’m a passionate self-taught Frontend Developer with 3+ years of experience in building modern, responsive, and scalable web applications. I love crafting clean UI, working with React ecosystems, and exploring the power of AI in web development.
 
-<!--
-**1faran-khandev/1faran-khandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+Bachelor of Science in Physics
+University of Science and Technology, Bannu
+Expected Graduation: 2025
 
-Here are some ideas to get you started:
+💻 Skills & Technologies
+Frontend
+HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js, Framer Motion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend (Learning)
+Node.js, Express.js, Python (Flask), Firebase
+
+Tools
+Git & GitHub, VS Code, REST APIs, LocalStorage,
+
+🌱 Currently Learning
+TypeScript & full-stack development best practices
+
+Building AI tools using APIs (Cohere, LangChain)
+
+🚀 Personal Projects
+Hoodie E-commerce Store – React + Tailwind + Cart
+
+Real Estate Landing Page – React + Framer Motion
+
+AI Prompt Generator – Cohere API + React
+
+🌍 Languages I Speak
+Urdu & English (Fluent)
+
+Pashto (Native)
+
+🎯 Hobbies & Interests
+👨‍💻 Coding & UI Design
+
+📚 Exploring AI tools & dev workflows
+
+✍️ Creating content & sharing code
+
+🤝 Open Source Contributions (in progress!)
+
+
