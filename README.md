@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
 
-I’m a passionate self-taught Frontend Developer with 3+ years of experience in building modern, responsive, and scalable web applications. I love crafting clean UI, working with React ecosystems, and exploring the power of AI in web development.
+I’m a passionate self-taught Frontend Developer with 3+ years of experience building modern, responsive, and scalable web applications. I love crafting clean UI, working with the React ecosystem, and exploring the power of AI in web development.
 
 ---
 
@@ -20,30 +20,30 @@ I’m a passionate self-taught Frontend Developer with 3+ years of experience in
 - Node.js, Express.js, Python (Flask), Firebase
 
 #### Tools
-- Git & GitHub, VS Code, REST APIs, LocalStorage,
+- Git & GitHub, VS Code, REST APIs, LocalStorage
 
 ---
 
 ### 🌱 Currently Learning
-- TypeScript & full-stack development best practices    
+- TypeScript & full-stack development best practices  
 - Building AI tools using APIs (Cohere, LangChain)  
 
 ---
 
-###  Personal Projects
+### 🚀 Personal Projects
 - **Hoodie E-commerce Store** – React + Tailwind + Cart  
 - **Real Estate Landing Page** – React + Framer Motion  
 - **AI Prompt Generator** – Cohere API + React
 
 ---
 
-###  Languages I Speak
+### 🌍 Languages I Speak
 - Urdu & English (Fluent)  
 - Pashto (Native)
 
 ---
 
-### Hobbies & Interests
+### 🎯 Hobbies & Interests
 - 👨‍💻 Coding & UI Design  
 - 📚 Exploring AI tools & dev workflows  
 - ✍️ Creating content & sharing code  
