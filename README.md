@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
 
-I’m a passionate self-taught Frontend Developer with 2+ years of experience building modern, responsive, and scalable web applications. I love crafting clean UI, working with the React ecosystem, and exploring the power of AI in web development.
+I’m a passionate self-taught Frontend Developer with 1+ years of experience building modern, responsive, and scalable web applications. I love crafting clean UI, working with the React ecosystem, and exploring the power of AI in web development.
 
 ---
 
