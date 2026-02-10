@@ -2,8 +2,6 @@
 
 I’m a self-taught developer focused on building modern web applications and growing into backend and full-stack engineering. I enjoy solving real problems with clean code, APIs, and scalable system design.
 
-Recently, I successfully completed the **HENNGE International Backend Coding Challenge (2026)**, implementing recursion-based computation, secure TOTP authentication (HMAC-SHA512), and authenticated API communication in Python.
-
 ---
 
 🎓 Education
@@ -27,10 +25,9 @@ Git, GitHub, VS Code, Firebase, LocalStorage
 ---
 
 🚀 Projects
-• Hoodie E-commerce Store — React + Tailwind + Cart System  
-• Real Estate Landing Page — React + Framer Motion  
-• AI Prompt Generator — Cohere API + React  
-• HENNGE Backend Challenge Solution — Python, Recursion, TOTP, API Submission
+• Hoodie E-commerce Store : React + Tailwind + Cart System  
+• Real Estate Landing Page : React + Framer Motion  
+• AI Prompt Generator : Cohere API + React 
 
 ---
 
