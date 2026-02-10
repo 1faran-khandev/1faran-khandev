@@ -1,50 +1,46 @@
-## 👋 Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
+👋 Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
 
-I’m a passionate self-taught Frontend Developer with 1+ years of experience building modern, responsive, and scalable web applications. I love crafting clean UI, working with the React ecosystem, and exploring the power of AI in web development.
+I’m a self-taught developer focused on building modern web applications and growing into backend and full-stack engineering. I enjoy solving real problems with clean code, APIs, and scalable system design.
 
----
-
-### 🎓 Education
-- **Bachelor of Science in Physics**  
-  University of Science and Technology, Bannu  
-  *Expected Graduation: 2025*
+Recently, I successfully completed the **HENNGE International Backend Coding Challenge (2026)**, implementing recursion-based computation, secure TOTP authentication (HMAC-SHA512), and authenticated API communication in Python.
 
 ---
 
-### 💻 Skills & Technologies
-
-#### Frontend
-- HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js, Next.js, Framer Motion
-
-#### Backend (Learning)
-- Node.js, Express.js, Python (Flask), Firebase
-
-#### Tools
-- Git & GitHub, VS Code, REST APIs, LocalStorage
+🎓 Education
+Bachelor of Science in Physics  
+University of Science and Technology, Bannu  
+Graduation: FEB  2026
 
 ---
 
-### 🌱 Currently Learning
-- TypeScript & full-stack development best practices  
-- Building AI tools using APIs (Cohere, LangChain)  
+💻 Skills & Technologies
+
+Frontend:
+HTML, CSS, Tailwind CSS, JavaScript (ES6+), React, Next.js, Framer Motion
+
+Backend:
+Python, Node.js, Express, REST APIs, Authentication, Secure API communication
+
+Tools:
+Git, GitHub, VS Code, Firebase, LocalStorage
 
 ---
 
-### 🚀 Personal Projects
-- **Hoodie E-commerce Store** – React + Tailwind + Cart  
-- **Real Estate Landing Page** – React + Framer Motion  
-- **AI Prompt Generator** – Cohere API + React
+🚀 Projects
+• Hoodie E-commerce Store — React + Tailwind + Cart System  
+• Real Estate Landing Page — React + Framer Motion  
+• AI Prompt Generator — Cohere API + React  
+• HENNGE Backend Challenge Solution — Python, Recursion, TOTP, API Submission
 
 ---
 
-### 🌍 Languages I Speak
-- Urdu & English (Fluent)  
-- Pashto (Native)
+🌱 Currently Learning
+• TypeScript and full-stack architecture  
+• Backend development with Python & APIs  
+• AI-powered application workflows
 
 ---
 
-### 🎯 Hobbies & Interests
-- 👨‍💻 Coding & UI Design  
-- 📚 Exploring AI tools & dev workflows  
-- ✍️ Creating content & sharing code  
-- 🤝 Open Source Contributions (in progress!)
+🌍 Languages
+Urdu & English (Fluent)  
+Pashto (Native)
