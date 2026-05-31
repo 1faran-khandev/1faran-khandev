@@ -1,43 +1,31 @@
-👋 Hi, I’m Muhammad Faran Ullah Khan (@1faran-khandev)
+# Hi, I'm Muhammad Faran Ullah Khan
 
-I’m a self-taught developer focused on building modern web applications and growing into backend and full-stack engineering. I enjoy solving real problems with clean code, APIs, and scalable system design.
-
----
-
-🎓 Education
-Bachelor of Science in Physics  
-University of Science and Technology, Bannu  
-Graduation: FEB  2026
+Frontend Developer & UI/UX Designer based in Bannu, Pakistan.
+I build responsive, user-centered web interfaces using React, 
+Tailwind CSS, and Figma — focusing on clean design and smooth user experience.
 
 ---
 
-💻 Skills & Technologies
+## Skills & Technologies
 
-Frontend:
-HTML, CSS, Tailwind CSS, JavaScript (ES6+), React, Next.js, Framer Motion
+**UI/UX & Design**
+Figma, Wireframing, Prototyping, Design Systems, 
+Mobile-First Design, Accessibility, Component Libraries
 
-Backend:
-Python, Node.js, Express, REST APIs, Authentication, Secure API communication
+**Frontend**
+React.js, Next.js, JavaScript (ES6+), HTML5, 
+CSS3, Tailwind CSS, Framer Motion
 
-Tools:
-Git, GitHub, VS Code, Firebase, LocalStorage
-
----
-
-🚀 Projects
-• Hoodie E-commerce Store : React + Tailwind + Cart System  
-• Real Estate Landing Page : React + Framer Motion  
-• AI Prompt Generator : Cohere API + React 
+**Tools**
+Git, GitHub, VS Code, REST APIs, Firebase
 
 ---
 
-🌱 Currently Learning
-• TypeScript and full-stack architecture  
-• Backend development with Python & APIs  
-• AI-powered application workflows
+## Projects
 
----
-
-🌍 Languages
-Urdu & English (Fluent)  
-Pashto (Native)
+| Project | Stack | Description |
+|---|---|---|
+| [Hoodie eCommerce Store](https://github.com/1faran-khandev/hoodify) | React · Tailwind | Full eCommerce UI with cart logic and responsive layout |
+| [Real Estate Landing Page](#) | React · Framer Motion | Animated landing page with smooth scroll and modular components |
+| [AI Prompt Tool](https://github.com/1faran-khandev/ai-prompt-tool) | React · Cohere API | Clean AI interface with end-to-end API integration |
+| [Crypto Dashboard](#) | React · Recharts · API | Live cryptocurrency dashboard with dynamic ch
