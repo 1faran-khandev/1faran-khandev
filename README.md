@@ -2,7 +2,7 @@
 
 Frontend Developer & UI/UX Designer based in Bannu, Pakistan.
 I build responsive, user-centered web interfaces using React, 
-Tailwind CSS, and Figma — focusing on clean design and smooth user experience.
+Tailwind CSS, and Figma, focusing on clean design and smooth user experience.
 
 ---
 
