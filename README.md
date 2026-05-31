@@ -26,7 +26,7 @@ Git, GitHub, VS Code, REST APIs, Firebase
 | Project | Stack | Description |
 |---|---|---|
 | [Hoodie eCommerce Store](https://github.com/1faran-khandev/hoodify) | React · Tailwind | Full eCommerce UI with cart logic and responsive layout |
-| [Real Estate Landing Page]([#](https://github.com/1faran-khandev/brickspace-real-estate)) | React · Framer Motion | Animated landing page with smooth scroll and modular components |
+| [Real Estate Landing Page](https://github.com/1faran-khandev/brickspace-real-estate) | React · Framer Motion | Animated landing page with smooth scroll and modular components |
 | [AI Prompt Tool](https://github.com/1faran-khandev/ai-prompt-tool) | React · Cohere API | Clean AI interface with end-to-end API integration |
 | [Crypto Dashboard](https://github.com/1faran-khandev/crypto-dashboard) | React · Recharts · API | Live cryptocurrency dashboard with dynamic charts |
 
