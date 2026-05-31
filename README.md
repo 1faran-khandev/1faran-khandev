@@ -2,7 +2,7 @@
 
 Frontend Developer & UI/UX Designer based in Bannu, Pakistan.
 I build responsive, user-centered web interfaces using React, 
-Tailwind CSS, and Figma, focusing on clean design and smooth user experience.
+Tailwind CSS, and Figma — focusing on clean design and smooth user experience.
 
 ---
 
@@ -26,6 +26,22 @@ Git, GitHub, VS Code, REST APIs, Firebase
 | Project | Stack | Description |
 |---|---|---|
 | [Hoodie eCommerce Store](https://github.com/1faran-khandev/hoodify) | React · Tailwind | Full eCommerce UI with cart logic and responsive layout |
-| [Real Estate Landing Page]((https://github.com/1faran-khandev/brickspace-real-estate)) | React · Framer Motion | Animated landing page with smooth scroll and modular components |
+| [Real Estate Landing Page]([#](https://github.com/1faran-khandev/brickspace-real-estate)) | React · Framer Motion | Animated landing page with smooth scroll and modular components |
 | [AI Prompt Tool](https://github.com/1faran-khandev/ai-prompt-tool) | React · Cohere API | Clean AI interface with end-to-end API integration |
-| [Crypto Dashboard]([#](https://github.com/1faran-khandev/crypto-dashboard)) | React · Recharts · API | Live cryptocurrency dashboard with dynamic ch
+| [Crypto Dashboard](https://github.com/1faran-khandev/crypto-dashboard) | React · Recharts · API | Live cryptocurrency dashboard with dynamic charts |
+
+---
+
+## Currently Learning
+
+- TypeScript
+- Advanced Figma — Auto Layout, Variables, Design Tokens
+- Next.js App Router
+
+---
+
+## Connect
+
+- Portfolio: [farandev-portfolio.vercel.app](https://farandev-portfolio.vercel.app)
+- LinkedIn: [linkedin.com/in/1farankhan](https://linkedin.com/in/1farankhan)
+- Email: faran7067@gmail.com
