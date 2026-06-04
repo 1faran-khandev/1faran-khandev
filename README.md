@@ -10,15 +10,15 @@ Frontend developer from Peshawar, Pakistan. I build fast, scalable web apps with
 
 ## Projects
 
-### BrickSpace — Real Estate Web App
+### BrickSpace : Real Estate Web App
 `React.js` `Tailwind CSS` `Framer Motion`
 
 Real estate platform built around property listing workflows and dashboard-style UI. Structured user flows for browsing and filtering properties, with reusable components and smooth interactions throughout.
 
-### Hoodify — E-commerce UI
+### Hoodify : E-commerce UI
 `React.js` `Tailwind CSS`
 
-Responsive e-commerce frontend with product listings, cart functionality, and a clean design system. Built with reusability in mind — every component scales without breaking the layout.
+Responsive e-commerce frontend with product listings, cart functionality, and a clean design system. Built with reusability in mind, every component scales without breaking the layout.
 
 ### AI Prompt Tool
 `React.js` `REST API` `Tailwind CSS`
