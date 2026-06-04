@@ -23,7 +23,7 @@ Responsive e-commerce frontend with product listings, cart functionality, and a 
 ### AI Prompt Tool
 `React.js` `REST API` `Tailwind CSS`
 
-Generates optimized prompts through external API integration. Focus was on clean UX and solid request handling — no unnecessary complexity.
+Generates optimized prompts through external API integration. Focus was on clean UX and solid request handling, no unnecessary complexity.
 
 ### Crypto Dashboard
 `React.js` `REST API` `Recharts`
