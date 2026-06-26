@@ -8,7 +8,7 @@ Currently, I'm expanding my skills in **Node.js, PostgreSQL, Supabase, authentic
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -49,19 +49,19 @@ Currently, I'm expanding my skills in **Node.js, PostgreSQL, Supabase, authentic
 
 ## 📌 Featured Projects
 
-### 🏠 BrickSpace
+### BrickSpace
 
 A modern real estate platform built with React and Tailwind CSS featuring responsive layouts, property filtering, and reusable UI components.
 
-### 🛍️ Hoodify
+### Hoodify
 
 A responsive e-commerce application with product listings, shopping cart functionality, and scalable component architecture.
 
-### 🤖 AI Prompt Tool
+### AI Prompt Tool
 
 An AI-powered application that integrates external AI APIs to generate optimized prompts with responsive UI and robust request handling.
 
-### 📈 Crypto Dashboard
+### Crypto Dashboard
 
 A live cryptocurrency dashboard displaying real-time market data with interactive charts and API integration.
 
@@ -78,12 +78,12 @@ A live cryptocurrency dashboard displaying real-time market data with interactiv
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 🌐 Portfolio: **https://farandev-portfolio.vercel.app**
-* 💼 LinkedIn: **https://linkedin.com/in/1farankhan**
-* 📧 Email: **[faran7067@gmail.com](mailto:faran7067@gmail.com)**
-* 🐙 GitHub: **https://github.com/1faran-khandev**
+*  Portfolio: **https://farandev-portfolio.vercel.app**
+*  LinkedIn: **https://linkedin.com/in/1farankhan**
+*  Email: **[faran7067@gmail.com](mailto:faran7067@gmail.com)**
+*  GitHub: **https://github.com/1faran-khandev**
 
 ---
 
