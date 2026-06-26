@@ -1,133 +1,90 @@
-# Faran Khan : Frontend Developer
+# Hi, I'm Muhammad Faran Ullah Khan 👋
 
-React.js · Next.js · TypeScript · Tailwind CSS
+### Frontend Engineer | React.js | Next.js | TypeScript | AI-Powered Web Applications
 
-Frontend developer from Peshawar, Pakistan. I build fast, scalable web apps with clean UI architecture, mostly through independent projects that I treat and iterate on like real production products.
+I'm a Frontend Engineer passionate about building modern, scalable, and user-focused web applications. My primary expertise is React.js, Next.js, TypeScript, and Tailwind CSS, with a growing focus on AI-powered applications and full-stack development.
 
-🔗 [farandev-portfolio.vercel.app](https://farandev-portfolio.vercel.app/) · 📧 [faran7067@gmail.com](mailto:faran7067@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/1farankhan)
-
----
-
-## What I Do
-
-- Build responsive React/Next.js applications with TypeScript
-- Design clean UI architectures using Tailwind CSS
-- Integrate REST APIs with async data handling and error management
-- Optimize performance for mobile and desktop (95+ PageSpeed scores)
-- Create production-ready components with reusable patterns
+Currently, I'm expanding my skills in **Node.js, PostgreSQL, Supabase, authentication systems, and SaaS architecture** while building production-ready projects.
 
 ---
 
-## Projects
+## 🚀 Tech Stack
 
-### Crypto Dashboard
-`React.js` `REST API` `Recharts` `Tailwind CSS`
+### Frontend
 
-Live dashboard pulling real-time crypto market data with interactive charts. Covers API integration, state management, and presenting data in a way that's actually readable.
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* Tailwind CSS
+* HTML5
+* CSS3
 
-**Problem Solved:** No easy way to track real-time crypto prices with visual charts for personal investment monitoring
+### Backend
 
-**Key Outcomes:**
-- 1.8s page load time, 95/100 Google PageSpeed
-- 234KB optimized bundle size
-- API rate limiting solved with 5-minute caching (80% fewer calls)
-- $12/year total cost (domain only)
+* Node.js (Learning)
+* Express.js (Learning)
+* REST APIs
 
-**Tech Highlights:** Debounced API calls (10s), custom React state for dynamic coin management, local caching with expiry
+### Databases
 
----
+* PostgreSQL (Learning)
+* SQL (Learning)
 
-### BrickSpace : Real Estate Web App
-`React.js` `Vite` `Tailwind CSS` `React Icons`
+### AI & APIs
 
-Real estate platform built around property listing workflows and dashboard-style UI. Structured user flows for browsing and filtering properties, with reusable components and smooth interactions throughout.
+* AI API Integration
+* Prompt Engineering
+* REST APIs
 
-**Problem Solved:** Small real estate agencies lacked affordable, professional property listing platforms (vs. expensive enterprise systems)
+### Tools
 
-**Key Outcomes:**
-- 2.1s page load time, 92/100 Google PageSpeed
-- 187KB Vite-optimized bundle
-- Mobile-responsive on 5+ device sizes
-- $0 hosting cost (Vercel free tier)
-- Structured for 3-5% conversion rate (vs. 1.2-2.5% industry average)
-
-**Tech Highlights:** Modular filter component with combinatory logic, lazy-loaded property images (<200KB), semantic HTML with full keyboard navigation
-
----
-
-### Hoodify : E-commerce UI
-`React.js` `Tailwind CSS` `Framer Motion` `React Router`
-
-Responsive e-commerce frontend with product listings, cart functionality, and a clean design system. Built with reusability in mind, every component scales without breaking the layout.
-
-**Problem Solved:** Small streetwear brands lacked affordable eCommerce storefronts without monthly Shopify fees ($29-299/mo)
-
-**Key Outcomes:**
-- 1.9s page load time, 94/100 Google PageSpeed
-- 215KB optimized bundle size
-- Designed for <60% cart abandonment (vs. 68-75% average)
-- Structured for 3-5% conversion rate (vs. 2.5-3% industry)
-- $0 total cost (Vercel free tier)
-
-**Tech Highlights:** Custom React state for cart operations, Framer Motion FLIP animations (30ms transitions), lazy-loaded images with blur placeholder, localStorage persistence
+* Git
+* GitHub
+* VS Code
+* Vite
+* Chrome DevTools
 
 ---
 
-### AI Prompt Tool
-`React.js` `REST API` `Tailwind CSS` `Vite`
+## 📌 Featured Projects
 
-Generates optimized marketing content through external Cohere API integration. Focus was on clean UX and solid request handling, no unnecessary complexity.
+### 🏠 BrickSpace
 
-**Problem Solved:** Marketers and small businesses lacked free AI tools for content generation (vs. Jasper $49/mo, Copy.ai $36/mo)
+A modern real estate platform built with React and Tailwind CSS featuring responsive layouts, property filtering, and reusable UI components.
 
-**Key Outcomes:**
-- 1.6s page load time, 96/100 Google PageSpeed
-- 156KB Vite-optimized bundle
-- 3.2s average API response time
-- 92% content generation success rate (with error handling)
-- $0 total cost (Vercel + Cohere free tiers)
+### 🛍️ Hoodify
 
-**Tech Highlights:** Async API handling with loading states, comprehensive error catcher with retry button, 5-second throttle between submissions, localStorage caching for recent generations
+A responsive e-commerce application with product listings, shopping cart functionality, and scalable component architecture.
 
----
+### 🤖 AI Prompt Tool
 
-## Tech Stack
+An AI-powered application that integrates external AI APIs to generate optimized prompts with responsive UI and robust request handling.
 
-**Core:** React.js, Next.js, TypeScript, JavaScript (ES6+)
+### 📈 Crypto Dashboard
 
-**Styling:** Tailwind CSS, HTML5, CSS3, Vanilla CSS
-
-**Data & APIs:** REST APIs, Recharts, Cohere API
-
-**Tooling:** Git, GitHub, VS Code, Chrome DevTools, Vite
-
-**Libraries:** Framer Motion, React Router, React Icons, Lucide React
+A live cryptocurrency dashboard displaying real-time market data with interactive charts and API integration.
 
 ---
 
-## Performance Standards
+## 🌱 Currently Learning
 
-Every project I build meets these benchmarks:
-
--  Page Load Time: <2.5 seconds
--  Bundle Size: <250KB optimized
--  Google PageSpeed: 90+ on mobile
--  Mobile Responsive: 5+ device sizes
--  Accessibility: Semantic HTML + keyboard navigation
-
----
-
-## Contact
-
-Open to freelance projects and full-time opportunities.
-
-**Email:** faran7067@gmail.com  
-**LinkedIn:** [linkedin.com/in/1farankhan](https://linkedin.com/in/1farankhan)  
-**Portfolio:** [farandev-portfolio.vercel.app](https://farandev-portfolio.vercel.app/)  
-**GitHub:** [github.com/1faran-khandev](https://github.com/1faran-khandev)
+* PostgreSQL
+* Supabase
+* JWT Authentication
+* SaaS Architecture
+* AI Agents
+* n8n Automation
 
 ---
 
-## License
+## 📫 Connect With Me
 
-MIT
+* 🌐 Portfolio: **https://farandev-portfolio.vercel.app**
+* 💼 LinkedIn: **https://linkedin.com/in/1farankhan**
+* 📧 Email: **[faran7067@gmail.com](mailto:faran7067@gmail.com)**
+* 🐙 GitHub: **https://github.com/1faran-khandev**
+
+---
+
+⭐ I'm always interested in collaborating on React, AI, and modern web development projects, and I'm open to remote opportunities.
